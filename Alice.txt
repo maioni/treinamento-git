@@ -1,4 +1,4 @@
-Oi! Eu sou Alice. 
-Sou um arquivo que alguém adicionou neste repositório há um bom tempo agora estou sendo alterado em outra branch1.
-Nova lina adicionada para uma nova branch diferente da original.
-Nova terceira linha!
+Oi! Eu sou Alice. Alterando no remoto.
+Sou um arquivo que alguém adicionou neste repositório há um bom tempo agora estou sendo alterado em outra branch1. Alterando no remoto.
+Nova lina adicionada para uma nova branch diferente da original. Alterando no remoto.
+Nova terceira linha! Alterando no remoto.
